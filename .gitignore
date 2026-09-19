@@ -1,0 +1,18 @@
+# Build trees
+build/
+build-*/
+out/
+cmake-build-*/
+
+# Editor and OS noise
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+Thumbs.db
+.DS_Store
+
+# Local run artifacts
+*.log
+*.tmp

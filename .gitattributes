@@ -1,0 +1,10 @@
+# Deterministic line endings for a cross-platform C++ repository.
+* text=auto eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.sln text eol=crlf
+*.vcxproj text eol=crlf
+*.png binary
+*.jpg binary
+*.lib binary
+*.exe binary
